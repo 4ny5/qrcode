@@ -25,3 +25,8 @@ To check your current Chrome version, paste `chrome://settings/help in Google Ch
 1. _Make sure your chromedriver.exe file is the same version as your Chrome web browser version_
 2. _Download the latest version chromedriver.exe here, [chromedriver](https://chromedriver.chromium.org/downloads)_ 
 3. _Then replace the chromedriver.exe file in the folder._
+
+# Credits to these people
+_| [Nightfallgt](https://github.com/NightfallGT)_
+_[Georgxe](https://github.com/Georgxe)_
+_[R00T](https://github.com/R00XT) |_
