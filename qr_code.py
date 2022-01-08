@@ -9,7 +9,7 @@ from colorama import Fore,Back
 colorama.init()
 
 def logo_qr():
-    im1 = Image.open('Template/qr_code.png', 'r')
+    im1 = Image.open('Template/background.png', 'r')
     im2 = Image.open('Template/overlay.png', 'r')
     im2_w, im2_h = im2.size
     im1.paste(im2, (60, 55))
