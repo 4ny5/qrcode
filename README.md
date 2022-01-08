@@ -19,14 +19,14 @@ _Download the latest version of [chromedriver](https://chromedriver.chromium.org
 6. _Look carefully at the aplication to see where the Image is, once looked inside of The start folder. Send the image to your friends or enimes._
 
 
-# chromedriver isn't a vaild version?
+# Chromedriver isn't a vaild version?
 Make sure your chromedriver.exe file is the same version as your current Chrome web browser version. 
-To check your current Chrome version, paste `chrome://settings/help in Google Chrome`
+To check your current Chrome version, paste `chrome://settings/help` in Google Chrome
 1. _Make sure your chromedriver.exe file is the same version as your Chrome web browser version_
 2. _Download the latest version chromedriver.exe here, [chromedriver](https://chromedriver.chromium.org/downloads)_ 
 3. _Then replace the chromedriver.exe file in the folder._
 
-# Credits to these people
-_| [Nightfallgt](https://github.com/NightfallGT)_
-_[Georgxe](https://github.com/Georgxe)_
-_[R00T](https://github.com/R00XT) |_
+# Contributors
+_|| [Georgxe](https://github.com/Georgxe),_
+_[R00T](https://github.com/R00XT),_ 
+_[Nightfallgt](https://github.com/NightfallGT),_ ||
