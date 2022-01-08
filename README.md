@@ -27,6 +27,6 @@ To check your current Chrome version, paste `chrome://settings/help in Google Ch
 3. _Then replace the chromedriver.exe file in the folder._
 
 # Contributors
-_|| [Nightfallgt](https://github.com/NightfallGT),_
-_[Georgxe](https://github.com/Georgxe),_
-_[R00T](https://github.com/R00XT), ||_
+_|| [Georgxe](https://github.com/Georgxe),_
+_[R00T](https://github.com/R00XT),_ 
+_[Nightfallgt](https://github.com/NightfallGT),_ ||
