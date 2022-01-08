@@ -21,7 +21,7 @@ _Download the latest version of [chromedriver](https://chromedriver.chromium.org
 
 # Chromedriver isn't a vaild version?
 Make sure your chromedriver.exe file is the same version as your current Chrome web browser version. 
-To check your current Chrome version, paste `chrome://settings/help in Google Chrome`
+To check your current Chrome version, paste `chrome://settings/help` in Google Chrome
 1. _Make sure your chromedriver.exe file is the same version as your Chrome web browser version_
 2. _Download the latest version chromedriver.exe here, [chromedriver](https://chromedriver.chromium.org/downloads)_ 
 3. _Then replace the chromedriver.exe file in the folder._
