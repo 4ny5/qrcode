@@ -41,10 +41,10 @@ def main():
     soup = BeautifulSoup(page_source, features='lxml')
 
     div = soup.find('div', {'class': 'qrCode-wG6ZgU'})
-    qr_code = div.find('img')['src']
-    file = os.path.join(os.getcwd(), 'Template/qr_code.png')
+    background = div.find('img')['src']
+    file = os.path.join(os.getcwd(), 'Template/background.png')
 
-    img_data =  base64.b64decode(qr_code.replace('data:image/png;base64,', ''))
+    img_data =  base64.b64decode(background.replace('data:image/png;base64,', ''))
 
     with open(file,'wb') as handler:
         handler.write(img_data)
